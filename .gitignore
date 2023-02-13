@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-node_modules
-=======
-=======
-<<<<<<< HEAD
->>>>>>> e5410ca (Branch solver2 (#3))
-=======
-<<<<<<< HEAD
->>>>>>> b0ca0e5 (new files)
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -32,15 +22,12 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
->>>>>>> ffccc8e (Initialize project using Create React App)
-=======
-=======
+
 node_modules
->>>>>>> 9b658bd (new files)
-=======
+
+
 node_modules
-=======
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -64,12 +51,5 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
->>>>>>> ffccc8e (Initialize project using Create React App)
->>>>>>> 1b0cf7c (Initialize project using Create React App)
-<<<<<<< HEAD
->>>>>>> e5410ca (Branch solver2 (#3))
-=======
-=======
+
 node_modules
->>>>>>> 9b658bd (new files)
->>>>>>> b0ca0e5 (new files)

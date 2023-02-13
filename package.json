@@ -1,159 +1,57 @@
 {
-  "name": "dev-portfolio",
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Thedoniki/dev-portfolio.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Thedoniki/dev-portfolio/issues"
-  },
-  "homepage": "https://github.com/Thedoniki/dev-portfolio#readme"
-=======
-=======
-<<<<<<< HEAD
->>>>>>> e5410ca (Branch solver2 (#3))
-=======
-=======
->>>>>>> e79c7a9 (Merge branches)
-
->>>>>>> 4d5f5cf (Update package.json)
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "firebase": "^9.17.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "eslint-config-prettier": "^8.6.0",
-    "prettier": "^2.8.4",
-    "typescript": "^4.9.5"
-  }
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ffccc8e (Initialize project using Create React App)
-=======
-=======
-=======
->>>>>>> 1b0cf7c (Initialize project using Create React App)
-=======
-
-<<<<<<< HEAD
->>>>>>> 4d5f5cf (Update package.json)
-=======
-=======
->>>>>>> df5d5e9 (Merge branches)
->>>>>>> e79c7a9 (Merge branches)
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Thedoniki/dev-portfolio.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Thedoniki/dev-portfolio/issues"
-  },
-  "homepage": "https://github.com/Thedoniki/dev-portfolio#readme"
-<<<<<<< HEAD
-
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "firebase": "^9.17.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "eslint-config-prettier": "^8.6.0",
-    "prettier": "^2.8.4",
-    "typescript": "^4.9.5"
-  }
-<<<<<<< HEAD
->>>>>>> ffccc8e (Initialize project using Create React App)
->>>>>>> 1b0cf7c (Initialize project using Create React App)
->>>>>>> e5410ca (Branch solver2 (#3))
-=======
-
-<<<<<<< HEAD
->>>>>>> 4d5f5cf (Update package.json)
-=======
-=======
->>>>>>> df5d5e9 (Merge branches)
->>>>>>> e79c7a9 (Merge branches)
+    "name": "dev-portfolio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Thedoniki/dev-portfolio.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Thedoniki/dev-portfolio/issues"
+    },
+    "homepage": "https://github.com/Thedoniki/dev-portfolio#readme",
+    "private": true,
+    "dependencies": {
+        "@testing-library/jest-dom": "^5.16.5",
+        "@testing-library/react": "^13.4.0",
+        "@testing-library/user-event": "^13.5.0",
+        "firebase": "^9.17.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-scripts": "^5.0.1",
+        "web-vitals": "^2.1.4"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "eslint-config-prettier": "^8.6.0",
+        "prettier": "^2.8.4",
+        "typescript": "^4.9.5"
+    }
+   
 }

@@ -1,25 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> e5ab912 (Correct react app w/ firebase)
-=======
->>>>>>> f564d13 (files added)
 
-
-
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ffccc8e (Initialize project using Create React App)
-=======
->>>>>>> e5ab912 (Correct react app w/ firebase)
-=======
->>>>>>> f564d13 (files added)
 function App() {
   return (
     <div className="App">
