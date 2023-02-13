@@ -1,9 +1,11 @@
 Link:  - https://docs.npmjs.com/cli/v9/commands/npm-install
         -(https://beta.reactjs.org/learn/start-a-new-react-project)
+        -(https://github.com/motdotla/dotenv)
 
 npx create-react-app dev-portfolio  
 
-npm i -D typescript
+npm i -D typescript -g
 
 npm install --save-dev eslint-config-prettier  prettier 
 npm install firebase-tools -g
+npm install dotenv --save  
