@@ -1,0 +1,9 @@
+Link:  - https://docs.npmjs.com/cli/v9/commands/npm-install
+        -(https://beta.reactjs.org/learn/start-a-new-react-project)
+
+npx create-react-app dev-portfolio  
+
+npm i -D typescript
+
+npm install --save-dev eslint-config-prettier  prettier 
+npm install firebase-tools -g
