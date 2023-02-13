@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import './index.css';
 import reportWebVitals from './reportWebVitals.js';
-
+//resolve.fallback: { "os": require.resolve("os-browserify/browser") }
 
 
 //import express from 'express' //https://github.com/dotenv-org/examples/blob/master/dotenv-express/index.mjs
@@ -32,11 +32,13 @@ const firebaseConfig = ({
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 
-ReactDOM.render(
+
+
+const root = ReactDOM.createRoot(document.createElement('root'));
+root.render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>,
-   document.getElementById('root')  
+  </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function

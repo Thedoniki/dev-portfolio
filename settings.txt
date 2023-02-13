@@ -1,0 +1,4 @@
+root: C:\Users\Donika\ReactFirebaseRepo\dev-portfolio\ 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none

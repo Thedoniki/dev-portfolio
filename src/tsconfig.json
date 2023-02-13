@@ -38,7 +38,8 @@
     "files": [
         "index.tsx",
         "App.tsx",
-        "reportWebVitals.js"
+        "reportWebVitals.js",
+        "logo.svg"
     ],
     "include": [
         "../src/**/*"
