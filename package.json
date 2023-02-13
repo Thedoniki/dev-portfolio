@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,6 +25,8 @@
 <<<<<<< HEAD
 >>>>>>> e5410ca (Branch solver2 (#3))
 =======
+=======
+>>>>>>> e79c7a9 (Merge branches)
 
 >>>>>>> 4d5f5cf (Update package.json)
   "version": "0.1.0",
@@ -76,7 +79,12 @@
 >>>>>>> 1b0cf7c (Initialize project using Create React App)
 =======
 
+<<<<<<< HEAD
 >>>>>>> 4d5f5cf (Update package.json)
+=======
+=======
+>>>>>>> df5d5e9 (Merge branches)
+>>>>>>> e79c7a9 (Merge branches)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -93,6 +101,7 @@
     "url": "https://github.com/Thedoniki/dev-portfolio/issues"
   },
   "homepage": "https://github.com/Thedoniki/dev-portfolio#readme"
+<<<<<<< HEAD
 
   "version": "0.1.0",
   "private": true,
@@ -141,5 +150,10 @@
 >>>>>>> e5410ca (Branch solver2 (#3))
 =======
 
+<<<<<<< HEAD
 >>>>>>> 4d5f5cf (Update package.json)
+=======
+=======
+>>>>>>> df5d5e9 (Merge branches)
+>>>>>>> e79c7a9 (Merge branches)
 }
