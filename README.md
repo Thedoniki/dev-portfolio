@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # dev-portfolio
 =======
 # Getting Started with Create React App
@@ -8,11 +9,14 @@
 =======
 <<<<<<< HEAD
 >>>>>>> e5410ca (Branch solver2 (#3))
+=======
+>>>>>>> 7981b99 (Update README.md)
 # Welcome to the Dev portfolio wiki!
 >>>>>>> e5ab912 (Correct react app w/ firebase)
 
 
-This is my first project implementing react with javascript and is ongoing. To see where I'm at in this project you can watch my process in Trello:
+This is my first project implementing react with javascript  connected with react,firebase and mongo db.
+Its probibly gonna take some time til im done but to see where I'm at in this project you can watch my process in Trello:
 
  https://trello.com/b/h0rMxosC/react-simple-project-github 
 
@@ -86,6 +90,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - https://www.mongodb.com/try/download/community
 - https://create-react-app.dev/
 - https://reactjs.org/docs/getting-started.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> e5ab912 (Correct react app w/ firebase)
 =======
@@ -183,3 +188,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> e5ab912 (Correct react app w/ firebase)
 >>>>>>> bbfdfe9 (Correct react app w/ firebase)
 >>>>>>> e5410ca (Branch solver2 (#3))
+=======
+>>>>>>> 7981b99 (Update README.md)
