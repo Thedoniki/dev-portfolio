@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e5ab912 (Correct react app w/ firebase)
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
@@ -28,6 +32,11 @@ const app = initializeApp(firebaseConfig);
 // eslint-disable-next-line
 const analytics = getAnalytics(app);
 
+<<<<<<< HEAD
+=======
+>>>>>>> ffccc8e (Initialize project using Create React App)
+=======
+>>>>>>> e5ab912 (Correct react app w/ firebase)
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
