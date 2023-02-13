@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # dev-portfolio
 =======
 # Getting Started with Create React App
@@ -11,6 +12,8 @@
 >>>>>>> e5410ca (Branch solver2 (#3))
 =======
 >>>>>>> 7981b99 (Update README.md)
+=======
+>>>>>>> 5afb5b6 (Initial commit)
 # Welcome to the Dev portfolio wiki!
 >>>>>>> e5ab912 (Correct react app w/ firebase)
 
@@ -90,6 +93,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - https://www.mongodb.com/try/download/community
 - https://create-react-app.dev/
 - https://reactjs.org/docs/getting-started.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> e5ab912 (Correct react app w/ firebase)
@@ -190,3 +194,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> e5410ca (Branch solver2 (#3))
 =======
 >>>>>>> 7981b99 (Update README.md)
+=======
+=======
+# dev-portfolio
+>>>>>>> a9ea9fd (Initial commit)
+>>>>>>> 5afb5b6 (Initial commit)
