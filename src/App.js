@@ -1,10 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> ffccc8e (Initialize project using Create React App)
 function App() {
   return (
     <div className="App">
