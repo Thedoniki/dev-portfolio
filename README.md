@@ -1,16 +1,20 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # dev-portfolio
 =======
 # Getting Started with Create React App
+=======
+# Welcome to the Dev portfolio wiki!
+>>>>>>> e5ab912 (Correct react app w/ firebase)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+This is my first project implementing react with javascript and is ongoing. To see where I'm at in this project you can watch my process in Trello:
 
-In the project directory, you can run:
+ https://trello.com/b/h0rMxosC/react-simple-project-github 
 
-### `npm start`
+# Links that will be useful:
 
+<<<<<<< HEAD
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -72,3 +76,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> ffccc8e (Initialize project using Create React App)
+=======
+- https://github.com/facebook/create-react-app
+- https://www.tatvasoft.com/blog/reactjs-best-practices/
+- https://www.mongodb.com/try/download/community
+- https://create-react-app.dev/
+- https://reactjs.org/docs/getting-started.html
+>>>>>>> e5ab912 (Correct react app w/ firebase)
