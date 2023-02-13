@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to the Dev portfolio wiki!
 
 
@@ -12,3 +13,6 @@ This is my first project implementing react with javascript and is ongoing. To s
 - https://www.mongodb.com/try/download/community
 - https://create-react-app.dev/
 - https://reactjs.org/docs/getting-started.html
+=======
+# dev-portfolio
+>>>>>>> a9ea9fd (Initial commit)
