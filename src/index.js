@@ -6,8 +6,11 @@ import reportWebVitals from './reportWebVitals';
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> e5ab912 (Correct react app w/ firebase)
+=======
+>>>>>>> f564d13 (files added)
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
@@ -33,10 +36,13 @@ const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ffccc8e (Initialize project using Create React App)
 =======
 >>>>>>> e5ab912 (Correct react app w/ firebase)
+=======
+>>>>>>> f564d13 (files added)
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
