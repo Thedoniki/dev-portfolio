@@ -5,7 +5,7 @@
             "dom",
             "dom.iterable",
             "esnext"
-          ],
+        ],
         "module": "commonjs",
         "jsx": "react-jsx",
         "composite": true,
@@ -21,7 +21,8 @@
         // go to js file when using IDE functions like
         // "Go to Definition" in VSCode
         "declarationMap": true
-    },    "allowJs": true,
+    },
+    "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
@@ -33,19 +34,27 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx",
     "extends": "@tsconfig/recommended/tsconfig.json",
     "files": [
         "index.tsx",
         "App.tsx",
         "reportWebVitals.js",
-        "logo.svg"
+        "logo.svg",
+        "index.css",
+        "App.css",
+    ],
+    "typeRoots": [
+        "node_modules/@types",
+        "node_modules/@types/node"
     ],
     "include": [
-        "../src/**/*"
+        "src/**/*"
     ],
     "exclude": [
         "node_modules",
         "**/reportWebVitals.js"
+    ],
+    "references": [
+        "./types"
     ],
 }

@@ -7,6 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
     "dotenv": "^16.0.3",
+    "esbuild": "0.17.8",
     "firebase": "^9.17.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -15,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "esbuild app.jsx --bundle --outfile=out.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -39,6 +40,7 @@
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.2",
+    "@types/node": "^18.13.0",
     "eslint-config-prettier": "^8.6.0",
     "prettier": "^2.8.4",
     "typescript": "^4.9.5"
