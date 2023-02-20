@@ -1,16 +1,19 @@
-import * as dotenv from "dotenv"; // see https://github.com/motdotla/dotenv#how-do-i-use-dotenv-with-import
+import { config } from "dotenv"; // see https://github.com/motdotla/dotenv#how-do-i-use-dotenv-with-import
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from './App';
+import App from './App'
 import "./index.css";
 import reportWebVitals from "./reportWebVitals.js";
+
 //import express from 'express' //https://github.com/dotenv-org/examples/blob/master/dotenv-express/index.mjs
 
-dotenv.config(); // https://stackoverflow.com/questions/42335016/dotenv-file-is-not-loading-environment-variables in case .env file is not loaded
+config(); // https://stackoverflow.com/questions/42335016/dotenv-file-is-not-loading-environment-variables in case .env file is not loaded
 
 // Import the functions you need from the SDKs you need
+// import * as analytics from "./firebase/analytics";
+import { initializeApp } from "./firebase/app";
 import { getAnalytics } from "firebase/analytics";
-import AppFire from "firebase/app";
+
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -26,8 +29,11 @@ const firebaseConfig = {
   measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID,
 };
 // Initialize Firebase
-const app = AppFire.initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
+
+
+const app = initializeApp(firebaseConfig);
+
+const analytics = getAnalytics(app);// const analytics = analytics.getAnalytics(app);
 
 const root = ReactDOM.createRoot(document.createElement("root"));
 root.render(

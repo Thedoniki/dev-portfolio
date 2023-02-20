@@ -1,7 +1,6 @@
-import { type } from 'os';
-
+import * as os from 'os';
+import React from 'react';
 import './App.css';
-import logo from './logo.svg';
 
 
 function App(): JSX.Element{
